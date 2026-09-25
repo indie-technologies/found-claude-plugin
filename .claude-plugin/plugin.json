@@ -9,7 +9,9 @@
     "url": "https://found.com"
   },
   "homepage": "https://found.com",
+  "repository": "https://github.com/indie-technologies/found-claude-plugin",
   "privacyPolicyUrl": "https://found.com/legal/privacy",
+  "termsOfServiceUrl": "https://found.com/legal/tos-lead",
   "supportUrl": "https://found.com/help",
   "documentationUrl": "https://found.com/help/manage-account/connecting-your-found-account-to-claude",
   "license": "MIT",
