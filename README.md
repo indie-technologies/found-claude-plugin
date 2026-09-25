@@ -1,4 +1,4 @@
-![Found](assets/icon.png)
+![Found](assets/icon.svg)
 
 # Found for Claude
 
