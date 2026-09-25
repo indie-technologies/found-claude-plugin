@@ -1,3 +1,5 @@
+![Found](assets/icon.png)
+
 # Found for Claude
 
 Work with your [Found](https://found.com) business banking and bookkeeping in Claude. Check balances, find and export transactions, close out the month, reconcile your accounts, review profit and loss, plan for taxes, chase unpaid invoices, and put together a packet for your accountant.
@@ -39,6 +41,10 @@ The plugin contains only instructions for Claude and a reference to Found's conn
 When you use it, Claude requests your account data from Found through that connector, using the access you approved when you connected. Files Claude creates, such as exports, are saved where you're working with Claude. If you use the feedback option, your message is sent to the Found team.
 
 You can disconnect Found at any time from the plugin's **Connectors** tab.
+
+## Privacy
+
+Found's handling of your data is described in the [Found Privacy Policy](https://found.com/legal/privacy).
 
 ## Support
 
