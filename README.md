@@ -48,7 +48,7 @@ Found's handling of your data is described in the [Found Privacy Policy](https:/
 
 ## Support
 
-Questions or problems: ask Claude to "send feedback to Found", or contact Found support at [found.com](https://found.com).
+Questions or problems: see [Connecting your Found account to Claude](https://found.com/help/manage-account/connecting-your-found-account-to-claude), visit the [Found help center](https://found.com/help), or ask Claude to "send feedback to Found".
 
 ## License
 

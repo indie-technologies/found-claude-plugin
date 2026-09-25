@@ -10,6 +10,8 @@
   },
   "homepage": "https://found.com",
   "privacyPolicyUrl": "https://found.com/legal/privacy",
+  "supportUrl": "https://found.com/help",
+  "documentationUrl": "https://found.com/help/manage-account/connecting-your-found-account-to-claude",
   "license": "MIT",
   "keywords": [
     "banking",
