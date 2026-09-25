@@ -1,0 +1,9 @@
+{
+  "name": "found",
+  "version": "0.1.0",
+  "description": "Work with your Found business banking and bookkeeping in Claude: check balances, export transactions, close the month, reconcile accounts, review profit and loss, and chase unpaid invoices. Read-only.",
+  "author": { "name": "Found", "url": "https://found.com" },
+  "homepage": "https://found.com",
+  "license": "MIT",
+  "keywords": ["banking", "bookkeeping", "small business", "accounting", "invoices", "taxes"]
+}

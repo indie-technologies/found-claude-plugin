@@ -1,0 +1,17 @@
+{
+  "name": "found",
+  "owner": {
+    "name": "Found",
+    "url": "https://found.com"
+  },
+  "metadata": {
+    "description": "Found's plugin for Claude: business banking and bookkeeping workflows. Read-only."
+  },
+  "plugins": [
+    {
+      "name": "found",
+      "source": "./",
+      "description": "Work with your Found business banking and bookkeeping in Claude. Read-only."
+    }
+  ]
+}

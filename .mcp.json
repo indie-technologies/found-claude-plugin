@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "found": {
+      "type": "http",
+      "url": "https://my.found.com/api/mcp"
+    }
+  }
+}
