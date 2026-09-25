@@ -23,7 +23,7 @@ The skills name the Found MCP server's tools and fields directly, so they have t
 ## Releasing
 
 1. Edit the skills and raise `version`.
-2. Run `claude plugin validate .` from the repository root.
+2. Run `claude plugin validate .` from the repository root. Use a current Claude Code (2.1.282 or later); older versions reject `displayName` and `privacyPolicyUrl`.
 3. Test in Claude Code with `claude --plugin-dir .`, and in claude.ai by uploading a zip under **Customize > Plugins > Add > Upload plugin**.
 4. Have customer-facing wording changes reviewed before merging, as with other Found customer copy.
 5. Merge to `main`. Once listed, the directory picks up each merge to the tracked branch.
