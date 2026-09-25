@@ -1,5 +1,3 @@
-![Found](assets/icon.svg)
-
 # Found for Claude
 
 Work with your [Found](https://found.com) business banking and bookkeeping in Claude. Check balances, find and export transactions, close out the month, reconcile your accounts, review profit and loss, plan for taxes, chase unpaid invoices, and put together a packet for your accountant.
