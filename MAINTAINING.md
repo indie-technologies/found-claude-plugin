@@ -18,6 +18,7 @@ The skills name the Found MCP server's tools and fields directly, so they have t
 | Both transaction tools default to the last 30 days and page with `start`, `limit`, and `total` | export, close, reconcile, packet |
 | `ask_assistant` reaches profit and loss, invoice search and details, client lookup, and Stripe payouts; `thread_token` continues a conversation | P&L, invoices, reconcile, packet |
 | `"Uncategorized"` appears only on settled money-out activity | close, P&L |
+| `list_accounts` marks the Tax account with `pocket_type: "tax"`; the assistant can report Found's estimated taxes owed and whether auto withholding is on | P&L and taxes |
 
 ## Releasing
 
